@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background-color: rgb(216, 216, 159);
+    padding: 1%;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+body{
+    background-color: rgb(182, 158, 129);
+}
+
+h2{
+    background-color: aqua;
+    padding: 1%;
+}
+a{
+    border: 10px;
+    border-color: black;
+    background-color: rgb(175, 181, 207);
+}

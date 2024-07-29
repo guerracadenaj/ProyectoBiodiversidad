@@ -1,22 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+
 header{
     text-align: center;
     background-color: rgb(216, 216, 159);
     padding: 1%;
 }
-img{
+
+.botones__iconos{
+      
+    width: 48px;
+    height: 48px;
+
+}
+.imagen__texto{
     width: 400px;
     height: 400px;
 }
+
 body{
     background-color: rgb(182, 158, 129);
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700; 
 }
 
 h2{
     background-color: aqua;
     padding: 1%;
+    
 }
 a{
     border: 10px;
-    border-color: black;
-    background-color: rgb(175, 181, 207);
+    text-decoration: none;
+    color: inherit;
+    margin: 0.5%;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+p{
+
+    text-align: center;
+}
+
+button{
+    background-color: bisque;
 }

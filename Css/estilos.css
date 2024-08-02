@@ -12,11 +12,13 @@ header{
       
     width: 48px;
     height: 48px;
-
 }
+
 .imagen__texto{
     width: 400px;
     height: 400px;
+    margin: 0 29px;
+    
 }
 
 body{
@@ -30,7 +32,7 @@ h1{
 h2{
     background-color: aqua;
     padding: 1%;
-    
+    font-family:'Times New Roman', Times, serif
 }
 a{
     border: 10px;
@@ -42,10 +44,13 @@ a{
     font-weight: 700;
 }
 p{
-
-    text-align: center;
+    text-align: justify;
+    
 }
 
 button{
     background-color: bisque;
+}
+footer h2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
